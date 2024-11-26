@@ -16,7 +16,7 @@ struct LoginView: View {
             VStack {
                 HeaderView(
                     title: "Focus Flow", subtitle: "Get things done",
-                    angle: 15, background: LogInMainColor
+                    angle: 24, background: LogInMainColor
                 )
                 
                 Form {

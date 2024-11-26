@@ -15,7 +15,7 @@ struct RegisterView: View {
         VStack {
             HeaderView(
                 title: "Registration", subtitle: "Start organizing todos",
-                angle: -15, background: RegisterMainColor
+                angle: -24, background: RegisterMainColor
             )
             
             Form {
